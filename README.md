@@ -14,13 +14,13 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## [Euseph]'s Cloud Journey
 
 [✍️ Introduce yourself]
 
-[✍️ Tell us why you started this challenge]
+[I began this challenge to gain more knowledge on cloud management. I want to be ahead of the curve or at best ready for when the world all moves to cloud.]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+[At the end of this challenge I would love to be job ready. I want to land a secure position with a great cmpany where I can begin a career.]
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
 - [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
